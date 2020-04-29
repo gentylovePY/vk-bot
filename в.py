@@ -24,7 +24,7 @@ global Random
 
 def random_id():
     Random = 0
-    Random += random.randint(0, 1000000000);
+    Random += random.randint(0, 10000000000);
     return Random
 
 
