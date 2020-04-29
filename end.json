@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Сыграть еще раз"
+      },
+      "color": "positive"
+    }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "Расписание"
+      },
+      "color": "positive"
+    }
+
+      ]
+  ]
+}

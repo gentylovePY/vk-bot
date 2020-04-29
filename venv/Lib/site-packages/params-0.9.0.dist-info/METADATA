@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: params
+Version: 0.9.0
+Summary: General purpose parameter validator for web development
+Home-page: https://github.com/reorx/params
+Author: reorx
+Author-email: novoreorx@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: six
+
+# Params
+
+[![travis](https://api.travis-ci.org/reorx/params.svg?branch=master)](https://travis-ci.org/reorx/params)
+[![codecov](https://img.shields.io/codecov/c/github/reorx/params.svg?style=flat-square&label=coverage)](https://codecov.io/gh/reorx/params)
+
+A Python package that does better in request parameters validation than django.forms, wtforms, web_args or so.
+
+

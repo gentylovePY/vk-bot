@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Расписание звонков⏱"
+      },
+      "color": "positive"
+    }],
+
+      [{
+        "action": {
+          "type": "text",
+          "label": "Назад⛔"
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "10-а"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "10-г"
+        },
+        "color": "positive"
+      },
+    {
+        "action": {
+          "type": "text",
+          "label": "10-е"
+        },
+        "color": "positive"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "играть"
+      },
+      "color": "positive"
+    },{
+      "action": {
+        "type": "text",
+        "label": "переводчик"
+      },
+      "color": "positive"
+    }
+    ]
+  ]
+}
